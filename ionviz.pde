@@ -1,4 +1,4 @@
-//Ionosphere Visualization Comparisons
+//Ionviz
 //Brian Cantrell
 //Project completed as part of Data Visualization course at 
 //USC School of Cinematic Arts with Evan Hughes
