@@ -1,7 +1,8 @@
-#Ionosphere Visuals
+#Ionexxer
 #Script by Brian Cantrell
-#
-#
+#Intended for reformatting of .ionex files 
+#downloaded from NASA Reverb | Echo
+
 import csv
 
 def getLat(line):
