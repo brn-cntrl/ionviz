@@ -1,7 +1,7 @@
 #Ionexxer
 #Script by Brian Cantrell
 #Intended for reformatting of .ionex files 
-#downloaded from NASA Reverb | Echo
+#downloaded from NASA Reverb | ECHO
 
 import csv
 
